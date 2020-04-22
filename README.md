@@ -18,15 +18,15 @@ Tutorial seguido: httpsPrograma el Juego de La Vida... en 10 MINUTOS! (video: yo
 Pequeño juego que recrea el juego diseñado por John Horton Conway (DEP, fallecido por coronavirus el 11 de abril de 2020 en Nueva Jersey) en 1970.
 
 ### Atajos de ratón y teclado
--Para dibujar use su click izquierdo.
--Para borrar use el click derecho.
--Para parar o reanudar el juego use el clcik central.
--La tecla "r" reanuda el juego.
--ESC finalizan la ejecución.
+- Para dibujar use su click izquierdo.
+- Para borrar use el click derecho.
+- Para parar o reanudar el juego use el clcik central.
+- La tecla "r" reanuda el juego.
+- ESC finalizan la ejecución.
 
 
 ## Requisitos <a name = "req"></a>
 
-Versión de python utilizada: 3.8.2
-Versión de pygame necesaria: 20.0.0 Dev6 (Cualquiera menor no será compatible)
+- Versión de python utilizada: 3.8.2
+- Versión de pygame necesaria: 20.0.0 Dev6 (Cualquiera menor no será compatible)
 
