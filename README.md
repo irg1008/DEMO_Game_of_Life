@@ -22,7 +22,7 @@ Pequeño juego que recrea el juego diseñado por John Horton Conway (DEP, fallec
 - Para borrar use el click derecho.
 - Para parar o reanudar el juego use el clcik central.
 - La tecla "r" reanuda el juego.
-- ESC finalizan la ejecución.
+- ESC finaliza la ejecución.
 
 
 ## Requisitos <a name = "req"></a>
